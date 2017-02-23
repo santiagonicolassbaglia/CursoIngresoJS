@@ -1,10 +1,10 @@
 function Mostrar()
 {
 
-var repetciones = prompt("ingrese el número de repeticiones");
-for(var i=10; i>0; i--)
-	console.log(i);
-var cant=i prompt ("hola UTN");
+var cant= prompt("ingrese el numero de repeticiones");
+for(var i=0; i<cant; i==)
+{ 
+	alert (" hola UTN fra");
 
-
+}
 }//FIN DE LA FUNCIÓN
